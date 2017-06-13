@@ -1,3 +1,3 @@
 #!/bin/bash
 sudo eopkg it python
-sudo eopkg pyusb
+sudo eopkg it pyusb
