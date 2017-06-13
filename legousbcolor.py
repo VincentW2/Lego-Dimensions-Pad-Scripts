@@ -74,7 +74,8 @@ def main():
     switch_pad(ALL_PADS,OLIVE)
     sleep(0.5)
     switch_pad(ALL_PADS,PURPLE)
-    
+    sleep(1)
+    switch_pad(ALL_PADS,OFF)
 
 if __name__ == '__main__':
     main()
