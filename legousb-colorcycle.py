@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 # A python script to cycle all avalible colors the Lego USB Pad can create.
-
 import usb.core
 import usb.util
 from time import sleep
