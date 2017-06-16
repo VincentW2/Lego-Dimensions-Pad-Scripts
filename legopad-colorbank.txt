@@ -1,1 +1,5 @@
 # Colors to implement into scripts that take function of the Lego USB Pad's color function.
+OFF   = [0,0,0]
+RED   = [255,0,0]
+GREEN = [0,255,0]
+BLUE  = [0,0,255]
